@@ -1,0 +1,46 @@
+
+      {
+        "name": "Wal",
+        "is_dark": true,
+        "colors": {
+          "accent-color": "#c2c3c6",
+          "accent": "#c2c3c6",
+          "primary-color": "#5194C7",
+          "warning-color": "#9B8A73",
+          "alert": "#9B8A73",
+          "sidebar-color": "#0c121b",
+          "roomlist-background-color": "#9B8A73",
+          "roomlist-text-color": "#c2c3c6",
+          "roomlist-text-secondary-color": "#9B8A73",
+          "roomlist-highlights-color": "#5b626f",
+          "roomlist-separator-color": "#599FDE",
+          "timeline-background-color": "#0c121b",
+          "timeline-text-color": "#c2c3c6",
+          "timeline-text-secondary-color": "#c2c3c6",
+          "timeline-highlights-color": "#9B8A73",
+          "username-colors": [
+            "#0c121b",
+            "#9B8A73",
+            "#21649C",
+            "#4D76A4",
+            "#5194C7",
+            "#599FDE",
+            "#6DB0EC",
+            "#c2c3c6"
+          ],
+          "avatar-background-colors": [
+            "#4D76A4",
+            "#5194C7",
+            "#599FDE"
+          ],
+          "reaction-row-button-selected-bg-color": "#5194C7",
+          "menu-selected-color": "#5194C7",
+          "focus-bg-color": "#5194C7",
+          "room-highlight-color": "#5194C7",
+          "other-user-pill-bg-color": "#5194C7",
+          "icon-button-color": "#6DB0EC",
+          "togglesw-off-color": "#5194C7",
+          "secondary-content": "#c2c3c6",
+          "tertiary-content": "#c2c3c6"
+        }
+      }
